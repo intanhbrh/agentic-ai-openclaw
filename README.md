@@ -1,11 +1,10 @@
-# 🤖 Agentic AI — OpenClaw + NemoClaw Setup
-### HELP International School | EdTech Department | Internship Project 2026
+# 🤖 Agentic AI — OpenClaw + NemoClaw Setup 
 
 ---
 
 ## 📌 What Is This?
 
-This repository documents my **Agentic AI research and deployment** during my industrial training at HELP International School (April–July 2026).
+This repository documents my **Agentic AI research and deployment** (April–July 2026).
 
 The goal was to set up, configure, and evaluate an **Agentic AI platform** that goes beyond simple chatbot interaction — allowing AI to plan tasks, write code, manage files, and execute multi-step workflows autonomously.
 
@@ -111,7 +110,4 @@ See the [`docs/`](./docs/) folder for full step-by-step guides.
 
 **Nur Habriah Binti Azizan**  
 Student ID: 1231301467  
-Faculty of Computing and Informatics — Multimedia University (MMU)  
-Industrial Training @ HELP International School | April–July 2026  
-Company Supervisor: Mr. Lau Sie Kee  
-Faculty Supervisor: Ms. Lim Siew Ling
+Faculty of Computing and Informatics — Multimedia University (MMU) April–July 2026  
